@@ -6,6 +6,7 @@ Draw by moving your mouse over the grid — just like the classic Etch-a-Sketch 
 ⸻
 
 🚀 Features
+
 	•	Interactive grid that can be drawn on by hovering the mouse
 	•	Adjustable grid size for more or less detail
 	•	Clear/reset button to start fresh
@@ -17,6 +18,7 @@ Draw by moving your mouse over the grid — just like the classic Etch-a-Sketch 
 ⸻
 
 🛠️ Technologies Used
+
 	•	HTML5 – page structure
 	•	CSS3 – styling and layout
 	•	JavaScript (ES6) – interactive logic
@@ -24,8 +26,11 @@ Draw by moving your mouse over the grid — just like the classic Etch-a-Sketch 
 ⸻
 
 📦 How to Run
+
 	1.	Download or clone the repository:
+ 
  git clone https://github.com/yourusername/etch-a-sketch.git
+ 
  	2.	Open index.html in your preferred web browser.
 
 ⸻
