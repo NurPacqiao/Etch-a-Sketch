@@ -8,11 +8,17 @@ Draw by moving your mouse over the grid — just like the classic Etch-a-Sketch 
 🚀 Features
 
 •	Interactive grid that can be drawn on by hovering the mouse
+
 •	Adjustable grid size for more or less detail
+
 •	Clear/reset button to start fresh
+
 •	Color modes:
+
 •	Black (default)
+
 •	Random colors for each hover
+
 •	Eraser mode to remove drawings
 
 ⸻
@@ -20,7 +26,9 @@ Draw by moving your mouse over the grid — just like the classic Etch-a-Sketch 
 🛠️ Technologies Used
 
 •	HTML5 – page structure
+
 •	CSS3 – styling and layout
+
 •	JavaScript (ES6) – interactive logic
 
 ⸻
@@ -41,15 +49,17 @@ Draw by moving your mouse over the grid — just like the classic Etch-a-Sketch 
 
 
 📝 How It Works
-	•	Move your mouse over the grid to draw.
-	•	Use the size slider to change the grid resolution.
-	•	Click the clear button to reset the board.
-	•	Switch color modes for creative designs.
+
+•	Move your mouse over the grid to draw.
+
+•	Use the size slider to change the grid resolution.
+
+•	Click the clear button to reset the board.
+
+•	Switch color modes for creative designs.
 
 ⸻
 
 📄 License
 
 This project is open-source and available under the MIT License.
-
-⸻
